@@ -202,7 +202,7 @@ path: baidusitemap.xml
 deploy:
   type: git
   repo:
-      github:
+      github: github.justcooking.mohamed0group
       coding:
   branch: master
 
