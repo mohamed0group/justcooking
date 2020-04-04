@@ -50,13 +50,13 @@ marco pierre white cooking,chef,education,challenge,challenges,ideas,do it yours
 life hacks,story"
 header-img: img/header_img/just cooking banner.jpeg
 signature: true #show signature
-signature-img: img/signature/dusign.png
+signature-img: img/signature/jcooking.png
 
 # SNS settings
-github_username:    dusign
-twitter_username:   dusignr
-facebook_username:  Gang Du
-zhihu_username: dusignr
+twitter_username:   mohamed32950500
+facebook_username:  just0cooking
+instagram_username: chefcooktshirt
+dailymotion_username: justcooking
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
@@ -70,8 +70,8 @@ ga_domain: yoursite
 
 # Sidebar settings
 sidebar: true                      # whether or not using Sidebar.
-sidebar-about-description: "Welcome to visit, I'm Dusign!"
-sidebar-avatar: img/ironman-draw.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Welcome to the world-famous Just cooking Subscribe to our channel and stay up to date on our latest pranks, Recipe tutorials, tips, techniques and the best bits from the archives."
+sidebar-avatar: img/myAvatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - search
 - featured-tags
@@ -97,24 +97,24 @@ show_count: true
 
 ## Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 5              # A tag will be featured if the size of it is more than this condition value
 
 
 ## Friends
 friends: [
-    {
-        title: "Dusign's Blog",
-        href: "https://blog.csdn.net/d_Nail"
-    },{
-        title: "Dusign's Web",
-        href: "#"
-    },{
-        title: "Dusign's Github",
-        href: "https://github.com/dusign"
-    },{
-        title: "Other",
-        href: "#"
-    }
+    # {
+    #     title: "Dusign's Blog",
+    #     href: "https://blog.csdn.net/d_Nail"
+    # },{
+    #     title: "Dusign's Web",
+    #     href: "#"
+    # },{
+    #     title: "Dusign's Github",
+    #     href: "https://github.com/dusign"
+    # },{
+    #     title: "Other",
+    #     href: "#"
+    # }
 ]
 
 math:
